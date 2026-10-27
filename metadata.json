@@ -1,0 +1,6 @@
+{
+  "name": "URLエンコード・デコード ツール",
+  "description": "高機能URLエンコード・デコードアプリ。RFC 3986、UTF-8バイト詳細解析、クエリパラメータ分解・編集、一括バッチ変換に対応した開発者向けツール。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
